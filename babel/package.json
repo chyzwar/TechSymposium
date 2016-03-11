@@ -13,6 +13,7 @@
     "start:watch": "watch 'npm start' ./lib"
   },
   "devDependencies": {
+    "webpack": "1.x",
     "babel-cli": "*",
     "babel-loader": "*",
     "babel-preset-node5": "*",
